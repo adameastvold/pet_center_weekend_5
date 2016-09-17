@@ -1,1 +1,1 @@
-
+The Pet Center Weekend 5 challenge is an app that works directly with the petfinder API to allow users to select which type of animal they would like to find. By selecting the find random animal button they will be presented with the animal of the type they have selected from the drop down menu. The user may save favorites which can be viewed, deleted, and so on in the favorites tab.
